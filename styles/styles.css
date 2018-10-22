@@ -24,7 +24,7 @@ p{
   color: white;
 }
 .color-1{
-  color:#004953
+  color:#004953;
 }
 .fancy{
   font-weight: bold;
@@ -39,7 +39,7 @@ p{
 #border{
   padding: 1px;
   border: white 2px solid;
-  background-color:#ff0
+  background-color:#ff0;
   width: 500px;
   height: 359px;
 }
@@ -50,7 +50,7 @@ table tr{
   background-color:white;
 }
 footer p{
-  font-size: 10px
+  font-size: 10px;
 }
 #rcorners{
   border-radius: 25px;
@@ -75,7 +75,7 @@ ol{
 #border-2{
   padding: 1px;
   border: white 2px solid;
-  background-color:#ff0
+  background-color:#ff0;
   width: 500px;
   height: 281px;
 }
@@ -99,4 +99,7 @@ color: pink;
 }
 a:active{
   color: lightgreen;
+}
+.margin{
+  margin-left: 35%;
 }
