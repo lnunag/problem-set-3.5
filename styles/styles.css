@@ -5,8 +5,15 @@
   color: white;
 }
 body {
+<<<<<<< HEAD
   background-color:#C0C0C0;
   margin: 10px;
+=======
+  background-color:#eeeeee;
+  color:#004953;
+  font-size:1.1em;
+  text-align: center;
+>>>>>>> bfc2b5dff2acea2d0f21cfe7652bbf2be99d8308
 }
 h1 {
   font-weight:bold;
@@ -14,6 +21,7 @@ h1 {
   text-shadow: 4px 4px 3px #77f;
   color:#004953;
 }
+<<<<<<< HEAD
 .center{
   text-align: center;
 }
@@ -84,4 +92,8 @@ ol{
   border: white 2px solid;
   width: 300px;
   height: 99px;
+=======
+.font-1 {
+  font-family: 'Josefin Sans', sans-serif;
+>>>>>>> bfc2b5dff2acea2d0f21cfe7652bbf2be99d8308
 }
